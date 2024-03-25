@@ -1,12 +1,14 @@
 import "./App.css";
-import { Card } from "./Components/Card/Card";
-import { Usuario } from "./Components/Usuario/Usuario";
+import { Counter } from "./Components/Counter/Counter";
+import { Text } from "./Components/Text/Text";
 
 function App() {
-  return (
+  
+
+  return (   
     <>
-      <Usuario nombre='Facundo' edad={19} nacionalidad='Argentina'/>
-      <Card />
+      <Counter />
+      <Text />
     </>
   );
 }
