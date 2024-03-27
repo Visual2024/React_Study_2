@@ -1,10 +1,14 @@
-
+import "./App.css";
+import { Counter } from "./Components/Counter/Counter";
+import { Text } from "./Components/Text/Text";
 
 function App() {
+  
 
-  return (
+  return (   
     <>
-      <h1>Mundo</h1>
+      <Counter />
+      <Text />
     </>
     );
 }
