@@ -1,16 +1,13 @@
 import "./App.css";
-import { Counter } from "./Components/Counter/Counter";
-import { Text } from "./Components/Text/Text";
-
+import { ItemListContainer } from "./Components/items/ItemListContainer";
 function App() {
   
 
   return (   
     <>
-      <Counter />
-      <Text />
+      <ItemListContainer />
     </>
-    );
+  );
 }
 
 

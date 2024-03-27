@@ -1,31 +1,20 @@
 import { useState, useEffect } from "react";
 
 export const Text2 = () => {
-  const [text, setText] = useState("");
+  const [text, setText1] = useState("");
 
-  const handleText = (e) => {
-    setText(e.target.value);
-  };
+  const hadleText=(e)=>{
+    setText1(e.target.value)
 
-  // Ciclos de Vida
+  }
 
-  useEffect(() => {
-    console.log("Montaje")
-    
-    return () => {
-        console.log("Desmontaje")
-    }
-  }, []);
 
-  useEffect(()=>{
-    console.log("Modificado")
-  },[text])
+  
 
   return (
     <div>
-      <hr />
-      <input type="text" onChange={handleText} />
-      <h2>{text}</h2>
+      <input type="text" onChange={hadleText}/>
+      <p>{text}</p>
     </div>
   );
 };
