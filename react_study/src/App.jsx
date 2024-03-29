@@ -1,10 +1,12 @@
-import "./App.css";
+import { CallApi } from "./Components/PokeApi/CallApi";
 
 
 function App() {
+
+
   return (
     <>
-      
+      <CallApi />
     </>
   );
 }
