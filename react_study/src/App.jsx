@@ -1,12 +1,12 @@
-import { CallApi } from "./Components/PokeApi/CallApi";
+import { PokemonList } from "./Components/API/PokemonList";
+
 
 
 function App() {
-
-
   return (
     <>
-      <CallApi />
+      <PokemonList />
+      
     </>
   );
 }
