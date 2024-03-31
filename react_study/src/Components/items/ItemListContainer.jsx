@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import date from "../../utils/MockAsyns.json";
+import date from "../../Data/date.json";
 import { ItemList } from "./ItemList";
 
 
