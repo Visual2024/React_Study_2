@@ -2,7 +2,7 @@ import { Item } from "./Item";
 
 export const ItemList = ({product}) => {
   return (
-    <div>
+    <div className="">
       {product.length > 0 &&
         product.map((producto) => {
           return (
