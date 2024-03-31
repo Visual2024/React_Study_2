@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import date from "../../utils/MockAsyns.json";
-import { Item } from "./Item";
+import { ItemList } from "./ItemList";
+
 
 export const ItemListContainer = () => {
 
@@ -23,13 +24,6 @@ export const ItemListContainer = () => {
   }, []);
 
   return (
-    <div>{product.length > 0 &&
-
-        product.map((producto) =>  {
-            return <div key={producto.id}>
-                 <Item producto={producto} />
-            </div>
-        })}
-    </div>
+   <ItemList product={product}/>
   )
 };
