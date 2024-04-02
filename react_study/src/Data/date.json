@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Media Manager III",
+    "descripcion": "Injury of unspecified nerve at hip and thigh levelr",
+    "imagen": "https://picsum.photos/id/30/300/150",
+    "stock": 10,
+    "precio": 68
+  },
+  {
+    "id": 2,
+    "title": "Assistant Media Planner",
+    "descripcion": "Injury of medial plantar nerve, left leg, subsequent encounter",
+    "imagen": "https://picsum.photos/id/221/300/150",
+    "stock": 41,
+    "precio": 12
+  },
+  {
+    "id": 3,
+    "title": "Nuclear Power Engineer",
+    "descripcion": "Displaced midcervical fracture of left femur, subsequent encounter for closed fracture with delayed healing",
+    "imagen": "https://picsum.photos/id/211/300/150",
+    "stock": 99,
+    "precio": 88
+  },
+  {
+    "id": 4,
+    "title": "Developer III",
+    "descripcion": "Intestinal strongyloidiasis",
+    "imagen": "https://picsum.photos/id/231/300/150",
+    "stock": 37,
+    "precio": 24
+  },
+  {
+    "id": 5,
+    "title": "Civil Engineer",
+    "descripcion": "Complete oblique atypical femoral fracture, left leg",
+    "imagen": "https://picsum.photos/id/201/300/150",
+    "stock": 24,
+    "precio": 44
+  },
+  {
+    "id": 6,
+    "title": "Project Manager",
+    "descripcion": "Underdosing of unspecified drugs acting on muscles",
+    "imagen": "https://picsum.photos/id/31/300/150",
+    "stock": 5,
+    "precio": 40
+  },
+  {
+    "id": 7,
+    "title": "Data Coordinator",
+    "descripcion": "Nondisplaced subtrochanteric fracture of left femur, subsequent encounter for open fracture type I or II with delayed healing",
+    "imagen": "https://picsum.photos/id/21/300/150",
+    "stock": 9,
+    "precio": 100
+  },
+  {
+    "id": 8,
+    "title": "Nurse Practicioner",
+    "descripcion": "Corrosion of third degree of unspecified forearm, sequela",
+    "imagen": "https://picsum.photos/id/23/300/150",
+    "stock": 68,
+    "precio": 39
+  },
+  {
+    "id": 9,
+    "title": "Account Representative IV",
+    "descripcion": "Subacute osteomyelitis, humerus",
+    "imagen": "https://picsum.photos/id/131/300/150",
+    "stock": 62,
+    "precio": 76
+  },
+  {
+    "id": 10,
+    "title": "Systems Administrator II",
+    "descripcion": "Laceration with foreign body of unspecified thumb with damage to nail, subsequent encounter",
+    "imagen": "https://picsum.photos/id/1/300/150",
+    "stock": 12,
+    "precio": 20
+  }
+]
