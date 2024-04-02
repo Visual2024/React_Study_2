@@ -1,13 +1,17 @@
-import { Link } from "react-router-dom";
+import {Link} from 'react-router-dom'
 
-export const Item = ({ producto, itemid }) => {
+export const Item = ({ i }) => {
   return (
-    <div className="bg-black text-white m-4 w-[80%] rounded-lg flex flex-col flex-wrap items-center ">
-      <h1 className="my-4">{producto.title}</h1>
-      <img src={producto.imagen} alt="" className="w-[10rem] mt-2 pb-10" />
-      <Link to={producto.id } target="_blank">
-        <button>Ir a otro sitio</button>
+    <div className=''>
+      <h1>{i.title}</h1>
+      <img src={i.imagen} alt={i.title} />
+      <p>Precio: ${i.precio}</p>
+      <p>Cantidad: {i.stock}</p>
+      
+        <Link to={`detalles/${i.id}` || `producto/detalles/${id}`} >
+        <button className='border-solid border-blue-500 '>Detalles</button>
       </Link>
+      
     </div>
   );
 };

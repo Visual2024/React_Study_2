@@ -1,16 +1,20 @@
 import { Item } from "./Item";
 
-export const ItemList = ({producto}) => {
+
+export const ItemList = ({item}) => {
+
+
+  
   return (
-    <div className="flex flex-row flex-wrap">
-      {producto.length > 0 &&
-        producto.map((producto) => {
-          return (
-            <div key={producto.id} className="flex flex-row flex-wrap w-[20%]">
-              <Item producto={producto} />
-            </div>
-          );
-        })}
-    </div>
-  );
-};
+    <div  className="flex flex-row flex-wrap gap-10  min-w-[1087px]: ml-[1rem]">
+    {item.length > 0 &&
+      item.map((i) => {
+       return (
+        <div className=" ">
+          <Item i={i}/>
+        </div>
+       )
+      })}
+  </div>
+  )
+}

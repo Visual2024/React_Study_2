@@ -1,29 +1,20 @@
 import { useEffect, useState } from "react";
 import date from "../../Data/date.json";
-import { ItemDetailContainer } from "./ItemDetailContainer";
+import { ItemList } from "./ItemList";
 
 export const ItemListContainer = () => {
-  const [producto, setProduct] = useState([]);
-
-  const pedirProducto = () => {
-    return new Promise((resolve, reject) => {
-      resolve(date);
-    });
-  };
+  const [item, setItem] = useState([]);
 
   useEffect(() => {
-    pedirProducto()
-      .then((res) => {
-        setProduct(res);
-      })
-      .catch((error) => {
-        console.error("Error 404" + error);
-      });
+    setItem(date);
   }, []);
 
   return (
-    <div >
-      <ItemDetailContainer producto={producto} />
+    <div>
+      <div className="w-100 text-[2rem] text-center my-5 font-bold">
+        <h1>Bienvenido a la tienda virtual</h1>
+      </div>
+      <ItemList item={item}  />
     </div>
   );
 };
