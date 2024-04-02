@@ -1,211 +1,82 @@
-[{
+[
+  {
     "id": 1,
     "title": "Media Manager III",
-    "descripcion": "Injury of unspecified nerve at hip and thigh level, left leg, subsequent encounter",
+    "descripcion": "Injury of unspecified nerve at hip and thigh levelr",
     "imagen": "https://picsum.photos/id/30/300/150",
     "stock": 10,
     "precio": 68
-  }, {
+  },
+  {
     "id": 2,
     "title": "Assistant Media Planner",
     "descripcion": "Injury of medial plantar nerve, left leg, subsequent encounter",
     "imagen": "https://picsum.photos/id/221/300/150",
     "stock": 41,
     "precio": 12
-  }, {
+  },
+  {
     "id": 3,
     "title": "Nuclear Power Engineer",
     "descripcion": "Displaced midcervical fracture of left femur, subsequent encounter for closed fracture with delayed healing",
     "imagen": "https://picsum.photos/id/211/300/150",
     "stock": 99,
     "precio": 88
-  }, {
+  },
+  {
     "id": 4,
     "title": "Developer III",
     "descripcion": "Intestinal strongyloidiasis",
     "imagen": "https://picsum.photos/id/231/300/150",
     "stock": 37,
     "precio": 24
-  }, {
+  },
+  {
     "id": 5,
     "title": "Civil Engineer",
     "descripcion": "Complete oblique atypical femoral fracture, left leg",
     "imagen": "https://picsum.photos/id/201/300/150",
     "stock": 24,
     "precio": 44
-  }, {
+  },
+  {
     "id": 6,
     "title": "Project Manager",
     "descripcion": "Underdosing of unspecified drugs acting on muscles",
     "imagen": "https://picsum.photos/id/31/300/150",
     "stock": 5,
     "precio": 40
-  }, {
+  },
+  {
     "id": 7,
     "title": "Data Coordinator",
     "descripcion": "Nondisplaced subtrochanteric fracture of left femur, subsequent encounter for open fracture type I or II with delayed healing",
     "imagen": "https://picsum.photos/id/21/300/150",
     "stock": 9,
     "precio": 100
-  }, {
+  },
+  {
     "id": 8,
     "title": "Nurse Practicioner",
     "descripcion": "Corrosion of third degree of unspecified forearm, sequela",
     "imagen": "https://picsum.photos/id/23/300/150",
     "stock": 68,
     "precio": 39
-  }, {
+  },
+  {
     "id": 9,
     "title": "Account Representative IV",
     "descripcion": "Subacute osteomyelitis, humerus",
     "imagen": "https://picsum.photos/id/131/300/150",
     "stock": 62,
     "precio": 76
-  }, {
+  },
+  {
     "id": 10,
     "title": "Systems Administrator II",
     "descripcion": "Laceration with foreign body of unspecified thumb with damage to nail, subsequent encounter",
     "imagen": "https://picsum.photos/id/1/300/150",
     "stock": 12,
     "precio": 20
-  }, {
-    "id": 11,
-    "title": "Programmer II",
-    "descripcion": "Laceration of unspecified blood vessel at wrist and hand level of left arm, sequela",
-    "imagen": "https://picsum.photos/id/3/300/150",
-    "stock": 97,
-    "precio": 32
-  }, {
-    "id": 12,
-    "title": "Financial Advisor",
-    "descripcion": "Displaced articular fracture of head of left femur, sequela",
-    "imagen": "https://picsum.photos/id/2/300/150",
-    "stock": 78,
-    "precio": 58
-  }, {
-    "id": 13,
-    "title": "Administrative Assistant IV",
-    "descripcion": "Abrasion of right hand",
-    "imagen": "https://picsum.photos/id/5/300/150",
-    "stock": 49,
-    "precio": 25
-  }, {
-    "id": 14,
-    "title": "Administrative Officer",
-    "descripcion": "Pseudosarcomatous fibromatosis",
-    "imagen": "https://picsum.photos/id/10/300/150",
-    "stock": 30,
-    "precio": 82
-  }, {
-    "id": 15,
-    "title": "Librarian",
-    "descripcion": "Nondisplaced simple supracondylar fracture without intercondylar fracture of unspecified humerus, sequela",
-    "imagen": "https://picsum.photos/id/90/300/150",
-    "stock": 91,
-    "precio": 5
-  }, {
-    "id": 16,
-    "title": "Sales Representative",
-    "descripcion": "Injury of other nerves at wrist and hand level of unspecified arm",
-    "imagen": "https://picsum.photos/id/231/300/150",
-    "stock": 87,
-    "precio": 25
-  }, {
-    "id": 17,
-    "title": "Marketing Assistant",
-    "descripcion": "Gluteal tendinitis",
-    "imagen": "https://picsum.photos/id/231/300/150",
-    "stock": 52,
-    "precio": 44
-  }, {
-    "id": 18,
-    "title": "Geological Engineer",
-    "descripcion": "Salter-Harris Type III physeal fracture of unspecified metatarsal, subsequent encounter for fracture with malunion",
-    "imagen": "https://picsum.photos/id/231/300/150",
-    "stock": 44,
-    "precio": 96
-  }, {
-    "id": 19,
-    "title": "Assistant Manager",
-    "descripcion": "Unspecified dislocation of left index finger, initial encounter",
-    "imagen": "https://picsum.photos/id/232/300/150ck",
-    "stock" : 85,
-    "precio": 77
-  }, {
-    "id": 20,
-    "title": "Legal Assistant",
-    "descripcion": "External constriction of left front wall of thorax, initial encounter",
-    "imagen": "https://picsum.photos/id/232/300/150",
-    "stock": 79,
-    "precio": 77
-  }, {
-    "id": 21,
-    "title": "Web Developer II",
-    "descripcion": "Xanthelasma of left eye, unspecified eyelid",
-    "imagen": "https://picsum.photos/id/232/300/150",
-    "stock": 38,
-    "precio": 35
-  }, {
-    "id": 22,
-    "title": "Chief Design Engineer",
-    "descripcion": "Traumatic hemothorax, initial encounter",
-    "imagen": "https://picsum.photos/id/232/300/150",
-    "stock": 24,
-    "precio": 77
-  }, {
-    "id": 23,
-    "title": "Occupational Therapist",
-    "descripcion": "Disorders of pyruvate metabolism and gluconeogenesis",
-    "imagen": "https://picsum.photos/id/232/300/150",
-    "stock": 80,
-    "precio": 28
-  }, {
-    "id": 24,
-    "title": "Director of Sales",
-    "descripcion": "Malignant melanoma of unspecified eyelid, including canthus",
-    "imagen": "https://picsum.photos/id/232/300/150",
-    "stock": 28,
-    "precio": 63
-  }, {
-    "id": 25,
-    "title": "Information Systems Manager",
-    "descripcion": "Unspecified physeal fracture of lower end of humerus, right arm, initial encounter for closed fracture",
-    "imagen": "https://picsum.photos/id/232/300/150",
-    "stock": 19,
-    "precio": 55
-  }, {
-    "id": 26,
-    "title": "Software Engineer III",
-    "descripcion": "Sprain of the superior tibiofibular joint and ligament, left knee, subsequent encounter",
-    "imagen": "https://picsum.photos/id/232/300/150",
-    "stock": 40,
-    "precio": 45
-  }, {
-    "id": 27,
-    "title": "Financial Advisor",
-    "descripcion": "Acute peptic ulcer, site unspecified, with perforation",
-    "imagen": "https://picsum.photos/id/231/300/150",
-    "stock": 10,
-    "precio": 65
-  }, {
-    "id": 28,
-    "title": "Quality Control Specialist",
-    "descripcion": "Carcinoma in situ of colon",
-    "imagen": "https://picsum.photos/id/231/300/150",
-    "stock": 48,
-    "precio": 13
-  }, {
-    "id": 29,
-    "title": "VP Product Management",
-    "descripcion": "Cardiovascular and cerebrovascular syphilis",
-    "imagen": "https://picsum.photos/id/231/300/150",
-    "stock": 89,
-    "precio": 28
-  }, {
-    "id": 30,
-    "title": "Software Test Engineer II",
-    "descripcion": "Narcolepsy and cataplexy",
-    "imagen": "https://picsum.photos/id/231/300/150",
-    "stock": 28,
-    "precio": 12
-  }]
+  }
+]

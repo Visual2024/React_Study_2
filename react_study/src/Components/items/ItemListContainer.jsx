@@ -1,11 +1,9 @@
 import { useEffect, useState } from "react";
 import date from "../../Data/date.json";
-import { ItemList } from "./ItemList";
-
+import { ItemDetailContainer } from "./ItemDetailContainer";
 
 export const ItemListContainer = () => {
-
-  const [product, setProduct] = useState([]);
+  const [producto, setProduct] = useState([]);
 
   const pedirProducto = () => {
     return new Promise((resolve, reject) => {
@@ -24,6 +22,8 @@ export const ItemListContainer = () => {
   }, []);
 
   return (
-   <ItemList product={product}/>
-  )
+    <div >
+      <ItemDetailContainer producto={producto} />
+    </div>
+  );
 };
