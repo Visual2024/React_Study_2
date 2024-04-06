@@ -1,9 +1,19 @@
-# Guia de Estudio para poder aprender React de manera facil y rapida
+## Guia de Estudio para poder aprender React de manera facil y rapida
+Todo esta dividio en ramas para una mejor compresion y organización.
 
-## Secciones 
-
-- Todo esta divido en ramas, en cada rama esta la seccion correspondiente a cada etapa
-
-- Clase-1_Instroducion
+## Clase-1_Instroducion
   - Dentro de esta rama se ve una breve guia de como usar React y como implemetar esta libreria dentro de tu proyecto personal
 
+### Cosas a tener en cuenta para poder iniciar un proyecto con React.
+  1. Tener la ultima version de Node.js
+  2. Tener un editor de codigo
+
+
+
+## Iniciar un Proyecto con React JS
+
+### Paso 1 - Instalar VITE
+    npm create vite@latest
+
+### Paso 2 - Moverse 
+  - Cambiar de Carpeta al Archivo Creado
