@@ -12,8 +12,14 @@ Todo esta dividio en ramas para una mejor compresion y organización.
 
 ## Iniciar un Proyecto con React JS
 
-### Paso 1 - Instalar VITE
+### 1. Instalar VITE
     npm create vite@latest
 
-### Paso 2 - Moverse 
-  - Cambiar de Carpeta al Archivo Creado
+### 2. Cambiar de Carpeta
+    cd projecto
+   
+### 3. Instalar Modulos
+    npm i
+
+### 4. Iniciar servidor
+    npm run dev
